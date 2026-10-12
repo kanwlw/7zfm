@@ -1,0 +1,5 @@
+previous-defaults
+__pycache__/
+tests/work-*/
+tests/cfg-*/
+tests/cache-*/
